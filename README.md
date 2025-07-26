@@ -1,4 +1,4 @@
-# 🫀 AI-powered Health Risk Predictor
+# 🫀 AI-powered Heart Health Predictor
 
 This project uses open-source health data to build an interpretable machine learning model that predicts whether a patient is at risk of heart disease. The goal is to empower early screening and improve patient decision-making through data-driven insights.
 
